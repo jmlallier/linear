@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "@floating-ui/react-dom": "^2.1.0",
-    "@lexical/react": "^0.16.1",
+    "@lexical/headless": "^0.20.0",
+    "@lexical/react": "^0.20.0",
     "@liveblocks/client": "^2.12.0",
     "@liveblocks/node": "^2.12.0",
     "@liveblocks/node-lexical": "^2.12.0",
@@ -25,7 +26,7 @@
     "classnames": "^2.5.1",
     "lexical": "^0.16.1",
     "marked": "^14.1.2",
-    "next": "^14.2.5",
+    "next": "^15.0.3",
     "node-html-parser": "^6.1.13",
     "postcss": "^8.4.33",
     "react": "18.2.0",
